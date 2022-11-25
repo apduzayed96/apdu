@@ -25,7 +25,7 @@
 	<meta property="fb:app_id"              content="<?php echo $fb_app_id;?>" />
 	<meta property="og:image" content="assets/fbaid.png">
 
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<link rel="icon" type="image/png" href="assets/favico.png" />
 	<link href="https://fonts.googleapis.com/css?family=Tajawal" rel="stylesheet">
